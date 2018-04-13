@@ -1,1 +1,3 @@
 # nodeJS-Sample
+all these codes are getting from thenetninja...
+I give credit to thenetninja.
